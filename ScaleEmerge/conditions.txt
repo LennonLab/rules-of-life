@@ -1,0 +1,49 @@
+'''
+df3 = df2[(df2['gr'] == -1.0) & (df2['mt'] == -1.0) & (df2['q'] == 1)]
+df4 = df2[(df2['gr'] == -1.0) & (df2['mt'] == -1.0) & (df2['q'] == 2)]
+df3 = df3.append(df4)
+df5 = df2[(df2['gr'] == -1.0) & (df2['mt'] == -1.5) & (df2['q'] == 1)]
+df3 = df3.append(df5)
+df6 = df2[(df2['gr'] == -1.0) & (df2['mt'] == -1.5) & (df2['q'] == 2)]
+df3 = df3.append(df6)
+df7 = df2[(df2['gr'] == -1.0) & (df2['mt'] == -2.0) & (df2['q'] == 1)]
+df3 = df3.append(df7)
+df8 = df2[(df2['gr'] == -1.0) & (df2['mt'] == -2.0) & (df2['q'] == 2)]
+df3 = df3.append(df8)
+df9 = df2[(df2['gr'] == -1.5) & (df2['mt'] == -1.0) & (df2['q'] == 1)]
+df3 = df3.append(df9)
+df10 = df2[(df2['gr'] == -1.5) & (df2['mt'] == -1.0) & (df2['q'] == 2)]
+df3 = df3.append(df10)
+df11 = df2[(df2['gr'] == -1.5) & (df2['mt'] == -1.5) & (df2['q'] == 1)]
+df3 = df3.append(df11)
+df12 = df2[(df2['gr'] == -1.5) & (df2['mt'] == -1.5) & (df2['q'] == 2)]
+df3 = df3.append(df12)
+df13 = df2[(df2['gr'] == -1.5) & (df2['mt'] == -2.0) & (df2['q'] == 1)]
+df3 = df3.append(df13)
+df14 = df2[(df2['gr'] == -1.5) & (df2['mt'] == -2.0) & (df2['q'] == 2)]
+df3 = df3.append(df14)
+df15 = df2[(df2['gr'] == -2.0) & (df2['mt'] == -1.0) & (df2['q'] == 1)]
+df3 = df3.append(df15)
+df16 = df2[(df2['gr'] == -2.0) & (df2['mt'] == -1.0) & (df2['q'] == 2)]
+df3 = df3.append(df16)
+df17 = df2[(df2['gr'] == -2.0) & (df2['mt'] == -1.5) & (df2['q'] == 1)]
+df3 = df3.append(df17)
+df18 = df2[(df2['gr'] == -2.0) & (df2['mt'] == -1.5) & (df2['q'] == 2)]
+df3 = df3.append(df18)
+df19 = df2[(df2['gr'] == -2.0) & (df2['mt'] == -2.0) & (df2['q'] == 1)]
+df3 = df3.append(df19)
+df20 = df2[(df2['gr'] == -2.0) & (df2['mt'] == -2.0) & (df2['q'] == 2)]
+df3 = df3.append(df20)
+df21 = df2[(df2['gr'] == -2.5) & (df2['mt'] == -1.0) & (df2['q'] == 1)]
+df3 = df3.append(df21)
+df22 = df2[(df2['gr'] == -2.5) & (df2['mt'] == -1.0) & (df2['q'] == 2)]
+df3 = df3.append(df22)
+df23 = df2[(df2['gr'] == -2.5) & (df2['mt'] == -1.5) & (df2['q'] == 1)]
+df3 = df3.append(df23)
+df24 = df2[(df2['gr'] == -2.5) & (df2['mt'] == -1.5) & (df2['q'] == 2)]
+df3 = df3.append(df24)
+df25 = df2[(df2['gr'] == -2.5) & (df2['mt'] == -2.0) & (df2['q'] == 1)]
+df3 = df3.append(df25)
+df26 = df2[(df2['gr'] == -2.5) & (df2['mt'] == -2.0) & (df2['q'] == 2)]
+df3 = df3.append(df26)
+'''
